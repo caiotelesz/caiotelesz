@@ -1,7 +1,7 @@
  ## Seja Bem-vindo ao meu perfil
 
-🌱 Atualmente estou focado em Java, SQL, Swift, HTML, CSS, JavaScript.
-🎓 Estou atualmente em busca de uma oportunidade de estágio na área de TI.
+- 🌱 Atualmente estou focado em Java, SQL, Swift, HTML, CSS, JavaScript.
+- 🎓 Estou atualmente em busca de uma oportunidade de estágio na área de TI.
 
   ##
 
