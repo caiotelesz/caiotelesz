@@ -11,7 +11,6 @@
 <br>
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=caiotelesz&show_icons=true&theme=algolia)
-  <img height="195em" src="https://readme-status-beta.vercel.app/api/top-langs?username=caiotelesz&theme=algolia&show_icons=false"/>
 
 
 ##
