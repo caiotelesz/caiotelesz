@@ -1,5 +1,5 @@
   ## Seja Bem-vindo ao meu perfil
-  
+
  - 🎓 Estou atualmente em busca de uma oportunidade de estágio na área de TI.
 
  ### Tecnologias e Ferramentas
@@ -9,10 +9,9 @@
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="30"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="30"/></a> <a href="https://docs.spring.io/spring-boot/docs/current/reference/html/documentation.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="30" /></a>
 
 <br>
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=caiotelesz&show_icons=true&theme=algolia)
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotelesz&layout=compact&langs_count=7&theme=algolia"/>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=caiotelesz&show_icons=true&theme=algolia&hide_border=true)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotelesz&layout=compact&langs_count=7&theme=algolia&hide_border=true"/>
 
 ##
 
