@@ -3,7 +3,7 @@
  - 🎓 Estou atualmente em busca de uma oportunidade de estágio na área de TI.
 
  ### Tecnologias e Ferramentas
-   [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,mysql,git,github,postman,thunder,&perline=12)](#)
+   [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,nodejs,mysql,git,github,postman,&perline=12)](#)
    
   ### Aprendendo
   [![Learning](https://skillicons.dev/icons?i=spring,&perline=12)](#)
