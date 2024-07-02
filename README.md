@@ -6,7 +6,7 @@
    [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,sass,nodejs,mysql,git,github,postman,&perline=12)](#)
    
   ### Aprendendo
-  [![Learning](https://skillicons.dev/icons?i=ts,spring,&perline=12)](#)
+  [![Learning](https://skillicons.dev/icons?i=ts,bootstrap,spring,&perline=12)](#)
 
 <br>
 
