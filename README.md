@@ -1,6 +1,6 @@
   ## Seja Bem-vindo ao meu perfil
 
- - 🎓 Estou atualmente em busca de uma oportunidade de estágio na área de TI.
+ - 🎓 Estou atualmente em busca de uma oportunidade em Desenvolvedor Front End
 
  ### Tecnologias e Ferramentas
    [![My Skills](https://skillicons.dev/icons?i=java,html,css,javascript,react,sass,nodejs,mysql,git,github,postman,&perline=12)](#)
