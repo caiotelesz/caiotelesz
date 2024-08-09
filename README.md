@@ -2,7 +2,7 @@
 
  - 🎓 Estou atualmente em busca de uma oportunidade em Desenvolvedor Front End
 
- ### Tecnologias e Ferramentas
+ ### Tecnologias
    [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react,nodejs,figma,java,mysql,git,github,postman,&perline=16)](#)
    
   ### Aprendendo
