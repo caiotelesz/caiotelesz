@@ -3,10 +3,10 @@
  - 🎓 Estou atualmente em busca de uma oportunidade em Desenvolvedor Front End
 
  ### Tecnologias
-   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react,nodejs,figma,java,mysql,git,github,postman,&perline=16)](#)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react,nodejs,ts,figma,java,mysql,git,github,postman,&perline=16)](#)
    
   ### Aprendendo
-  [![Learning](https://skillicons.dev/icons?i=ts,tailwind,firebase,redux,next,spring,&perline=12)](#)
+  [![Learning](https://skillicons.dev/icons?i=tailwind,firebase,redux,next,spring,&perline=12)](#)
 
 <br>
 
