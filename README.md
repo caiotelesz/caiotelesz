@@ -1,6 +1,6 @@
   ## Seja Bem-vindo ao meu perfil
 
- - 🎓 Estou atualmente em busca de uma oportunidade em Desenvolvedor Front End
+ - 🎓 Estou atualmente em busca de uma oportunidade em Desenvolvedor Backend
 
  ### Tecnologias
    [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,ts,sass,tailwind,figma,java,mysql,git,github,postman,&perline=16)](#)
