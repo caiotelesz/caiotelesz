@@ -1,12 +1,12 @@
   ## Seja Bem-vindo ao meu perfil
 
- - 🎓 Estou atualmente em busca de uma oportunidade em Desenvolvedor Web
+ - 🎓 Estou atualmente em busca de uma oportunidade em Desenvolvedor Backend
 
  ### Tecnologias
-   [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,ts,sass,tailwind,figma,java,mysql,git,github,postman,&perline=16)](#)
+   [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript,ts,react,nodejs,sass,tailwind,figma,mysql,postgresql,git,github,postman,&perline=17)](#)
    
   ### Aprendendo
-  [![Learning](https://skillicons.dev/icons?i=bootstrap,angular,firebase,redux,spring,&perline=10)](#)
+  [![Learning](https://skillicons.dev/icons?i=bootstrap,angular,firebase,&perline=10)](#)
 
 <br>
 
