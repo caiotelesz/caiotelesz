@@ -13,7 +13,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=caiotelesz&show_icons=true&theme=algolia&hide_border=true)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotelesz&layout=compact&langs_count=7&theme=algolia&hide_border=true"/>
 
-##
+<hr />
 
  ### Contatos
 
