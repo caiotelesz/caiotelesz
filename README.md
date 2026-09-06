@@ -1,12 +1,9 @@
   ## Seja Bem-vindo ao meu perfil 
 
- - 🎓 Estou atualmente em busca de uma oportunidade em Desenvolvedor Backend.
+ - 🎓 Sou Desenvolvedor Backend.
 
  ### Tecnologias
-   [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript,ts,react,nodejs,sass,tailwind,figma,mysql,postgresql,git,github,postman,&perline=17)](#)
-   
-  ### Aprendendo
-  [![Learning](https://skillicons.dev/icons?i=bootstrap,angular,firebase,&perline=11)](#)
+   [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,javascript,ts,react,angular,sass,figma,mysql,postgresql,mongodb,git,github,postman,&perline=17)](#)
 
 <br>
 
